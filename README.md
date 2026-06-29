@@ -7,7 +7,7 @@ Tenho interesse em desenvolvimento de software, automação, inteligência artif
 ## 🚀 Atualmente estou trabalhando em
 
 * 📱 **EduSinal** — Aplicativo voltado à acessibilidade para pessoas com deficiência auditiva utilizando Libras.
-
+* Fazendo um curso de especialização em Java no +Devs2Blu!!
 ## 🌱 Atualmente estou aprendendo
 
 * Desenvolvimento Full Stack
