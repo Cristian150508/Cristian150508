@@ -37,4 +37,4 @@ Tenho interesse em desenvolvimento de software, automação, inteligência artif
 
 ---
 
-> "A melhor forma de aprender tecnologia é construindo projetos."
+"A melhor forma de aprender tecnologia é construindo projetos."
