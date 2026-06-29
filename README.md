@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # 👋 Olá! Eu sou o Cristian
 
 💻 Estudante de **Desenvolvimento de Sistemas** no CEDUP Hermann Hering.
@@ -10,7 +7,6 @@ Tenho interesse em desenvolvimento de software, automação, inteligência artif
 ## 🚀 Atualmente estou trabalhando em
 
 * 📱 **EduSinal** — Aplicativo voltado à acessibilidade para pessoas com deficiência auditiva utilizando Libras.
-* ♻️ **Lixo Eletrônico Pode Voltar à Vida** — Projeto de automação de uma porta de garagem utilizando componentes reaproveitados.
 
 ## 🌱 Atualmente estou aprendendo
 
@@ -23,11 +19,10 @@ Tenho interesse em desenvolvimento de software, automação, inteligência artif
 
 ## 🛠️ Tecnologias
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+🌐 HTML5
+🎨 CSS3
+⚡ JavaScript
+☕ Java
 
 ## 🎯 Objetivos
 
@@ -36,13 +31,6 @@ Tenho interesse em desenvolvimento de software, automação, inteligência artif
 * Aprender tecnologias modernas e boas práticas de engenharia de software.
 * Contribuir com projetos Open Source futuramente.
 
-## 📂 Repositórios em destaque
-
-⭐ EduSinal
-
-⭐ Lixo Eletrônico Pode Voltar à Vida
-
-⭐ Outros projetos desenvolvidos durante o curso.
 
 ## 📈 Estatísticas
 
