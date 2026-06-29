@@ -31,13 +31,6 @@ Tenho interesse em desenvolvimento de software, automação, inteligência artif
 * Aprender tecnologias modernas e boas práticas de engenharia de software.
 * Contribuir com projetos Open Source futuramente.
 
-
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cristian150508\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian150508\&layout=compact\&theme=tokyonight)
-
 ## 📫 Contato
 
 * GitHub: **github.com/Cristian150508**
