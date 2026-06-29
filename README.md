@@ -30,5 +30,7 @@ Tenho interesse em desenvolvimento de software, automação, inteligência artif
 * Aprender tecnologias modernas e boas práticas de engenharia de software.
 * Contribuir com projetos Open Source futuramente.
 
+📫 Contato
+GitHub: github.com/Cristian150508
 
 "A melhor forma de aprender tecnologia é construindo projetos."
