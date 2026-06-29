@@ -32,5 +32,6 @@ Tenho interesse em desenvolvimento de software, automação, inteligência artif
 
 📫 Contato
 GitHub: github.com/Cristian150508
+www.linkedin.com/in/cristian-andrei-tamasia-071b9541a
 
 "A melhor forma de aprender tecnologia é construindo projetos."
